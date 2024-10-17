@@ -23,3 +23,14 @@ Make sure you have the following installed on your system:
    Open your terminal and navigate to the project directory. Run the following command to install the necessary dependencies:
    ```bash
    npm install
+
+4. **Install MongoDB On Your Pc**  
+   and run mongodb before run application.
+
+
+### Run the Project
+
+After the installation is complete, start the project by running:
+
+```bash
+npm run dev
